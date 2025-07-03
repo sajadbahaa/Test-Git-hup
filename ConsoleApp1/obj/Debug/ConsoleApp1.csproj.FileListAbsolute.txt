@@ -1,0 +1,7 @@
+D:\GitHupFolder\Test-Git-hup\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\GitHupFolder\Test-Git-hup\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\GitHupFolder\Test-Git-hup\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\GitHupFolder\Test-Git-hup\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\GitHupFolder\Test-Git-hup\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\GitHupFolder\Test-Git-hup\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\GitHupFolder\Test-Git-hup\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
